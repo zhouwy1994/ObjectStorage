@@ -5,6 +5,8 @@ go 1.13
 require (
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
+	github.com/klauspost/cpuid v1.2.3 // indirect
+	github.com/klauspost/reedsolomon v1.9.4
 	github.com/kr/pretty v0.2.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/satori/go.uuid v1.2.0
